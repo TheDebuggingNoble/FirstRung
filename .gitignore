@@ -24,3 +24,7 @@ npm-debug.log*
 !.vscode/extensions.json
 tsconfig.tsbuildinfo
 next-env.d.ts
+
+# Local AI-assistant tooling config
+.claude/
+CLAUDE.md
